@@ -1,10 +1,11 @@
 <project>
   <modelVersion>4.0.0</modelVersion>
-  <groupId>com.mycompany.saidulu</groupId>
-  <artifactId>HelloWorld</artifactId>
-  <version>1.0.2</version>
-  <packaging>jar</packaging>
-  
+  <groupId>com.webapp</groupId>
+  <artifactId>amplewebapp</artifactId>
+  <packaging>war</packaging>
+  <version>1.0</version>
+  <name>samplewebapp Maven webapp</name>
+  <url>http:/maven.apache.org</url>
   
   <dependencies>
     <dependency>
